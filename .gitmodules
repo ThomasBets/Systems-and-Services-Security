@@ -1,0 +1,3 @@
+[submodule "Secure-Server-Client-Communication-using-OpenSSL-Mutual-TLS"]
+	path = Secure-Server-Client-Communication-using-OpenSSL-Mutual-TLS
+	url = https://github.com/ThomasBets/Secure-Server-Client-Communication-using-OpenSSL-Mutual-TLS.git
