@@ -1,3 +1,6 @@
 [submodule "Secure-Server-Client-Communication-using-OpenSSL-Mutual-TLS"]
 	path = Secure-Server-Client-Communication-using-OpenSSL-Mutual-TLS
 	url = https://github.com/ThomasBets/Secure-Server-Client-Communication-using-OpenSSL-Mutual-TLS.git
+[submodule "Systems-and-Services-Security"]
+	path = Systems-and-Services-Security
+	url = https://github.com/ThomasBets/ECDH-RSA-Cryptographic-Methods.git
