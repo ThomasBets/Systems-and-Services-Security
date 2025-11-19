@@ -4,3 +4,6 @@
 [submodule "ECDH-RSA-Cryptographic-Methods"]
 	path = ECDH-RSA-Cryptographic-Methods
 	url = https://github.com/ThomasBets/ECDH-RSA-Cryptographic-Methods.git
+[submodule "Access-Control-Logging-System-and-File-Monitoring"]
+	path = Access-Control-Logging-System-and-File-Monitoring
+	url = https://github.com/ThomasBets/Access-Control-Logging-System-and-File-Monitoring.git
