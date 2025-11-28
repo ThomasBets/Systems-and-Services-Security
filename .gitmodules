@@ -7,3 +7,6 @@
 [submodule "Access-Control-Logging-System-and-File-Monitoring"]
 	path = Access-Control-Logging-System-and-File-Monitoring
 	url = https://github.com/ThomasBets/Access-Control-Logging-System-and-File-Monitoring.git
+[submodule "Supply-Chain-Malware-Detection"]
+	path = Supply-Chain-Malware-Detection
+	url = https://github.com/ThomasBets/Supply-Chain-Malware-Detection.git
