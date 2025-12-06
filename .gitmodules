@@ -10,3 +10,6 @@
 [submodule "Supply-Chain-Malware-Detection"]
 	path = Supply-Chain-Malware-Detection
 	url = https://github.com/ThomasBets/Supply-Chain-Malware-Detection.git
+[submodule "Web-based-Vulnerabilities-and-Attacks"]
+	path = Web-based-Vulnerabilities-and-Attacks
+	url = https://github.com/ThomasBets/Web-based-Vulnerabilities-and-Attacks.git
