@@ -13,3 +13,6 @@
 [submodule "Web-based-Vulnerabilities-and-Attacks"]
 	path = Web-based-Vulnerabilities-and-Attacks
 	url = https://github.com/ThomasBets/Web-based-Vulnerabilities-and-Attacks.git
+[submodule "Simple-Firewall-Implementation"]
+	path = Simple-Firewall-Implementation
+	url = https://github.com/ThomasBets/Simple-Firewall-Implementation.git
