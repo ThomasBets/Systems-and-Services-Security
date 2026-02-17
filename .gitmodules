@@ -19,3 +19,6 @@
 [submodule "Network-Intrusion-Detection-with-Snort"]
 	path = Network-Intrusion-Detection-with-Snort
 	url = https://github.com/ThomasBets/Network-Intrusion-Detection-with-Snort.git
+[submodule "Ransomware-Simulation-and-Detection"]
+	path = Ransomware-Simulation-and-Detection
+	url = https://github.com/ThomasBets/Ransomware-Simulation-and-Detection.git
