@@ -16,3 +16,6 @@
 [submodule "Simple-Firewall-Implementation"]
 	path = Simple-Firewall-Implementation
 	url = https://github.com/ThomasBets/Simple-Firewall-Implementation.git
+[submodule "Network-Intrusion-Detection-with-Snort"]
+	path = Network-Intrusion-Detection-with-Snort
+	url = https://github.com/ThomasBets/Network-Intrusion-Detection-with-Snort.git
